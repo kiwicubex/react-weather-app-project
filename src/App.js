@@ -12,7 +12,7 @@ export default function App() {
           target="_blank"
           rel="noreferrer"
         >
-          Amanda Chan
+          Amanda Chan{" "}
         </a>
         and is{" "}
         <a
